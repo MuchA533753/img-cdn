@@ -1,0 +1,19 @@
+{
+  "id": "coolhunter-cli-qr",
+  "title": "酷家乐 CLI 使用与反馈交流群",
+  "type": "image/png",
+  "width": 1080,
+  "height": 1080,
+  "src": "https://mucha533753.github.io/img-cdn/qr/coolhunter-cli.png",
+  "fallbackSrc": "https://cdn.jsdelivr.net/gh/MuchA533753/img-cdn@main/qr/coolhunter-cli.png",
+  "alt": "酷家乐 CLI 使用与反馈交流群 二维码",
+  "source": {
+    "repo": "https://github.com/MuchA533753/img-cdn",
+    "path": "qr/coolhunter-cli.png",
+    "branch": "main"
+  },
+  "updatePolicy": "overwrite-in-place",
+  "capturedAt": "2026-11-02",
+  "expiresAt": "2026-11-09",
+  "notes": "微信群二维码有效期 7 天，每周覆盖同名文件更新，URL 保持不变。"
+}
