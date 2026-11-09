@@ -13,7 +13,7 @@
     "branch": "main"
   },
   "updatePolicy": "overwrite-in-place",
-  "capturedAt": "2026-11-02",
-  "expiresAt": "2026-11-09",
+  "capturedAt": "2026-11-09",
+  "expiresAt": "2026-11-16",
   "notes": "微信群二维码有效期 7 天，每周覆盖同名文件更新，URL 保持不变。"
 }
